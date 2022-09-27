@@ -7,7 +7,7 @@ export default function App() {
     return (
         <div>
             <Header />
-            <App />
+            <Meme />
         </div>
     )
 }
